@@ -28,7 +28,7 @@
     "GOOGLE_CHROME_BIN": {
       "description": "CHROME_BIN",
       "value": "/app/.apt/usr/bin/google_chrome"
-    },
+    }
   },
   "buildpacks": [
     {
